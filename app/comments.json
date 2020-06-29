@@ -1,0 +1,55 @@
+{
+    "comments": 
+    [
+        {
+            "id": 1, 
+            "post_id": 1,
+            "title": "comment_1",
+            "date": "2019-01-02T21:58:25", 
+            "comment": "Comment"
+        },
+        {
+            "id": 2, 
+            "post_id": 1,
+            "title": "comment_1",
+            "date": "2019-01-02T21:58:25", 
+            "comment": "Comment"
+        },
+        {
+            "id": 3, 
+            "post_id": 2,
+            "title": "comment_1",
+            "date": "2019-01-02T21:58:25", 
+            "comment": "Comment"
+        },
+        {
+            "id": 4, 
+            "post_id": 2,
+            "title": "comment_1",
+            "date": "2019-01-02T21:58:25", 
+            "comment": "Comment"
+        },
+        {
+            "id": 5, 
+            "post_id": 5,
+            "title": "comment_1",
+            "date": "2019-01-02T21:58:25", 
+            "comment": "Comment"
+        },
+        {
+            "id": 6, 
+            "post_id": 5,
+            "title": "comment_1",
+            "date": "2019-01-02T21:58:25", 
+            "comment": "Comment"
+        },
+        {
+            "id": 7, 
+            "post_id": 5,
+            "title": "comment_1",
+            "date": "2019-01-02T21:58:25", 
+            "comment": "Comment"
+        }
+
+    ]
+} 
